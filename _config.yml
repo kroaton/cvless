@@ -1,18 +1,18 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Vladimir Cazacu
+description: Senior Technical Artist with experience in film and video games.
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://volod.xyz/cvless
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Vladimir Cazacu - Technical Artist
+tagshort: Vladimir Cazacu
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Vladimir Cazacu
+  email: vladimir@volod.xyz
 photo: assets/files/photo.jpg
 address: Foobar Hall 1.23
 phone: +1 234 567 890
@@ -24,7 +24,7 @@ social:
   instagram: username
   linkedin: username
   stackoverflow: 0000000/username
-  x: username
+  x: volodXYZ
 
 # build settings
 permalink: pretty
