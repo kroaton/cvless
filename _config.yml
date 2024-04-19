@@ -14,8 +14,8 @@ author:
   name: Vladimir Cazacu
   email: vladimir@volod.xyz
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+#address: Foobar Hall 1.23
+#phone: +1 234 567 890
 
 # social media links
 social:
